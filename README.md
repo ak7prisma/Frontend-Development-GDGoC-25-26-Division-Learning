@@ -23,15 +23,16 @@ We emphasize **clean UI**, **maintainable code**, and **modern frontend technolo
 
 ## 👥 Frontend Division Members
 
-- Ahmad Kurnia Prisma  
-- Nuredy Rahma Gunawan  
-- Akbar Kurniawan  
-- Duhairillah  
-- Deza Arlian  
-- Aulia Mutiara Sari  
-- Anjelia Hidayat  
-- Farrel Athaillah Wijaya  
-- M. Atala Daffa Alfaris  
+- Ahmad Kurnia Prisma
+- Nuredy Rahma Gunawan
+- Achmad Faiz Yudha Ramadhan
+- Akbar Kurniawan
+- Duhairillah
+- Deza Arlian
+- Aulia Mutiara Sari
+- Anjelia Hidayat
+- Farrel Athaillah Wijaya
+- M. Atala Daffa Alfaris
 
 ---
 
@@ -48,6 +49,7 @@ We emphasize **clean UI**, **maintainable code**, and **modern frontend technolo
 ## 📂 Repository Purpose
 
 This repository contains:
+
 - Live coding examples from learning sessions
 - Sample implementations for frontend concepts
 - References used during mentoring and discussions
@@ -62,6 +64,5 @@ Each folder or branch may represent a **specific topic**, **session**, or **lear
 > To create a supportive learning environment where members can grow as frontend developers through practice, collaboration, and continuous improvement.
 
 ---
-
 
 > Made with ❤️ by Frontend Development Division @ GDGoC UNSRI
